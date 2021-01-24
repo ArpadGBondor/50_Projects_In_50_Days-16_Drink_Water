@@ -2,3 +2,5 @@
 
 ## Udemy - 50 Projects In 50 Days - HTML, CSS & JavaScript
 ### Section 17: Day 16 - Drink Water
+
+I fixed an error where the original project was checking the nextElementSibling of the last cup.
